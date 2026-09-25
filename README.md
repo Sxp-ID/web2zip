@@ -3,7 +3,7 @@ Welcome
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 # Web2zip
-Script web2zip, clone web lewat aplikasi termux !
+Script untuk nge-clone web lewat aplikasi termux !
 
 <details open><summary><code>Perintah Script?</code></summary>
 
